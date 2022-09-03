@@ -1,0 +1,153 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.contact {
+    background-color: green;
+    display: flex;
+    justify-content: center;
+    font-size: 18px;
+    color: #ffff;
+}
+
+.contact p span{
+    margin-left: 22px;
+}
+
+.header {
+    padding: 20px 20px 10px 70px;
+    /* border: 1px red solid; */
+}
+
+.top-menu {
+    /* border: 2px rgb(72, 255, 0) solid; */
+    float: left;
+    margin-left: 60px;
+    margin-top: -13px;
+}
+
+.top-menu li{
+    list-style: none;
+    display: inline;
+}
+
+.top-menu a{
+    text-decoration: none;
+    color: #000;
+    font-weight: bold;
+    margin-right: 150px;
+}
+
+.top-menu a:hover{
+   color: green;
+}
+
+
+.header .logo {
+    float: left;
+    margin-right: 20%;
+    /* border: 2px blue solid; */
+}
+
+.sign-up a, .btn-buy-now{
+    background-color:green;
+    color: white;
+    padding: 10px;
+}
+
+.sign-up a:hover {
+    color: white;
+}
+
+.content {
+    padding: 60px;
+}
+
+.text-content {
+    float: left;
+    width: 69%;
+}
+
+.text-content a {
+   padding: 12px;
+   text-decoration: none;
+   border: 1px solid green;
+}
+
+.btn-contact {
+    color: green;
+    background-color: transparent;
+    border: 1px solid green;
+ }
+ .head {
+    font-weight: bold;
+ }
+ .middle {
+    font-weight: bold;
+    font-size: 20px;
+ }
+ .body {
+    margin-bottom: 40px;
+ }
+ .down-menu li{
+    list-style: none;
+    display: inline;
+    margin: 20px 250px 10px 0px;
+ }
+ .down-menu a{
+    text-decoration: none;
+    margin-left: -40px;
+ }
+ .one {
+    text-align: center;
+    color: red;
+    margin-top: 90px;
+ }
+ .two {
+    text-align: center;
+    color: green;
+    margin-bottom: 100px;
+ }
+ .font-awesome li{
+    list-style: none;
+    display: inline;
+    margin-right: 453px;
+ }
+ .font-text li{
+    list-style: none;
+    display: inline;
+    margin-right: 390px;
+ }
+ .font-text a{
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+    font-size: 13px;
+ }
+ 
+ .box {
+    float: left;
+    width: 20%;
+ }
+ .box1, .box2 {
+    width: 20%;
+    float: left;
+    background-color: #ffff;
+ }
+
+ .box i, .box p, .box1 i, .box2 i, .box1 p, .box2 p {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+ }
+
+ .box, .box1, .box2 {
+    box-shadow: rgba(60, 110, 50, 0.5) 0px 7px 29px 0px;
+    margin-left: 40px;
+    padding: 10px;
+ }
+
+ .font-awesome {
+    display: flex;
+    justify-content: center;
+ }
