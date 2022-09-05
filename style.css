@@ -151,3 +151,78 @@ body {
     display: flex;
     justify-content: center;
  }
+
+.on {
+   display: flex;
+   float: center;
+   margin: 100px 10px 10px 770px;
+   color: red;
+}
+.tw {
+   display: flex;
+   float: center;
+   margin: 10px 90px 10px 600px;
+   font-weight: bold;
+   font-size: 30px;
+}
+.th {
+   display: flex;
+   float: center;
+   margin: 20px 90px 10px 600px;
+   font-weight: lighter;
+   font-size: 15px;
+   text-align: justify;
+}
+.read-more {
+   background-color: green;
+   float: left;
+   text-decoration: none;
+   padding: 10px;
+   color: white;
+   margin: 25px 10px 10px 600px;
+}
+.pic {
+   float:none;
+   margin: -200px 20px 10px -500px;
+}
+.ont {
+   display: flex;
+   float: center;
+   margin: 100px 770px 10px 230px;
+   color: red;
+}
+.twt {
+   display: flex;
+   float: center;
+   margin: 10px 600px 10px 90px;
+   font-weight: bold;
+   font-size: 30px;
+}
+.tht {
+   display: flex;
+   float: center;
+   margin: 20px 600px 10px 90px;
+   font-weight: lighter;
+   font-size: 15px;
+   text-align: justify;
+}
+.read-mor {
+   background-color: green;
+   float: left;
+   text-decoration: none;
+   padding: 10px;
+   color: white;
+   margin: 25px 10px 10px 90px;
+}
+.pics {
+   float:none;
+   margin: -200px 20px 10px 800px;
+}
+.pi {
+   float: right;
+   margin: -200px 10px 10px 10px
+}
+.pix {
+   float:none;
+   margin: 10px 10px 10px 10px;
+}
