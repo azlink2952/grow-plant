@@ -97,6 +97,7 @@ body {
  .down-menu a{
     text-decoration: none;
     margin-left: -40px;
+    color: #000;
  }
  .one {
     text-align: center;
@@ -107,6 +108,8 @@ body {
     text-align: center;
     color: green;
     margin-bottom: 100px;
+    font-size: 20px;
+    font-weight: bold;
  }
  .font-awesome li{
     list-style: none;
@@ -226,3 +229,136 @@ body {
    float:none;
    margin: 10px 10px 10px 10px;
 }
+.on {
+   display: flex;
+   float: center;
+   margin: 100px 10px 10px 770px;
+   color: red;
+}
+.tw {
+   display: flex;
+   float: center;
+   margin: 10px 90px 10px 600px;
+   font-weight: bold;
+   font-size: 30px;
+}
+.th {
+   display: flex;
+   float: center;
+   margin: 20px 90px 10px 600px;
+   font-weight: lighter;
+   font-size: 15px;
+   text-align: justify;
+}
+.read-more {
+   background-color: green;
+   float: left;
+   text-decoration: none;
+   padding: 10px;
+   color: white;
+   margin: 25px 10px 10px 600px;
+}
+.pic {
+   float:none;
+   margin: -200px 20px 10px -500px;
+}
+.ont {
+   display: flex;
+   float: center;
+   margin: 100px 770px 10px 230px;
+   color: red;
+}
+.twt {
+   display: flex;
+   float: center;
+   margin: 10px 600px 10px 90px;
+   font-weight: bold;
+   font-size: 30px;
+}
+.tht {
+   display: flex;
+   float: center;
+   margin: 20px 600px 10px 90px;
+   font-weight: lighter;
+   font-size: 15px;
+   text-align: justify;
+}
+.read-mor {
+   background-color: green;
+   float: left;
+   text-decoration: none;
+   padding: 10px;
+   color: white;
+   margin: 25px 10px 10px 90px;
+}
+.pics {
+   float:none;
+   margin: -200px 20px 10px 800px;
+}
+.pi {
+   float: right;
+   margin: -200px 10px 10px 10px
+}
+.pix {
+   float:none;
+   margin: 10px 10px 10px 10px;
+}
+.o {
+   display: flex;
+   float: center;
+   margin: 100px 10px 10px 770px;
+   color: red;
+}
+.e {
+   display: flex;
+   float: center;
+   margin: 10px 90px 10px 600px;
+   font-weight: bold;
+   font-size: 30px;
+}
+.t {
+   display: flex;
+   float: center;
+   margin: 20px 90px 10px 600px;
+   font-weight: lighter;
+   font-size: 15px;
+   text-align: justify;
+}
+.read-moe {
+   background-color: green;
+   float: left;
+   text-decoration: none;
+   padding: 10px;
+   color: white;
+   margin: 25px 10px 10px 600px;
+}
+.ic {
+   float:none;
+   margin: -200px 20px 10px -500px;
+}
+.vi {
+   display: flex;
+   margin-left: 235px;
+}
+.vo {
+   text-align: center;
+   color: green;
+   font-weight: bold;
+   font-size: 20px;
+   margin-top: 100px;
+}
+.box5 {
+   float: left;
+   width: 20%;
+}
+.box5, .box6, .box7 {
+   width: 20%;
+   float: left;
+   background-color: #ffff;
+}
+
+
+.box5, .box6, .box7 {
+   box-shadow: rgba(60, 110, 50, 0.5) 0px 7px 29px 0px;
+   margin-left: 40px;
+   padding: 10px;}
